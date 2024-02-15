@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is an implementation of the landing page for a local bakery shop, according to [Figma design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1);
+This is an implementation of the landing page a bakery shop, according to [Figma design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1);
 
 ## Technologies Used
 The Bakery landinding page was created using the following technologies:
